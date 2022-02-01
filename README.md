@@ -1,5 +1,5 @@
 - 👋 Hello!! I’m Destiny
-- 👀 I’m interested in embedded system, quantum computing, AI, and ML
+- 👀 I’m interested in embedded system, computer vision, AI, and ML
 - 🌱 I’m currently learning C++ and Python
 
 <!---
