@@ -1,8 +1,8 @@
 ## Hello! I’m Destiny 👋
-A sophomore at UTD studying computer engineering and math.
+A junior at UTD studying computer engineering.
 
 ## What I am working on 🌱
-I am experimenting with C++ and Java as well as app development using Kotlin. Additionally, I enjoy playing around with Arduino.
+I am experimenting with Java and C/C++. Additionally, using Arduino to build automated devices.
 
 <!---
 Destiny1405/Destiny1405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
